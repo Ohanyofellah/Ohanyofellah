@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ohanyofellah
-- 👀 I’m interested in cyber security and web application development.
+- 👀 I’m interested in mobile and web application development.
 - 🌱 I’m currently learning software engineering @kirinyagaUniversity
 - 💞️ I’m looking to collaborate on ...any project related to my area of specialization.
 - 📫 How to reach me ...through my email
