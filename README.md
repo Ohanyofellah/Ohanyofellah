@@ -4,12 +4,17 @@ My name is Felix Otieno Ohanyo and I am a junior software engineer with a passio
 
 
 • Integrated development environments (IDEs) such as Visual Studio, and IntelliJ
+
 • Version control systems such as Git and Mercurial
+
 • Build and automation tools such as Ant, Maven, and Gradle
+
 • Test automation tools such as JUnit, TestNG, and Selenium
+
 • Data storage technologies such as SQL databases and NoSQL databases
-• Containerization technologies such as Docker
+
 • Cloud platforms such as AWS and Google Cloud Platform
+
 • Mobile development frameworks such as Android Studio and Xcode
 and have a strong foundation in testing, data structures, algorithms, OPP, functional programming, concurrency and design patterns. I am always looking to improve my skills and expand my knowledge in the field of software development. On my GitHub profile, you'll find a selection of my personal projects and contributions to open source projects. I hope you find them interesting and please don't hesitate to reach out if you have any questions or comments.
 
